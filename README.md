@@ -1,6 +1,8 @@
 # Kerayspeli
 This is a game where you have to collect food and watch out for bombs.
 
+NOTE: This game works only in windows!
+
 How to "download" the game:
 1. Download the .zip file
 2. Unzip the .zip file
@@ -11,6 +13,8 @@ How to "download" the game:
 
 
 Tämä on peli jossa pitää kerätä ruokia ja varoa pommeja.
+
+HUOM: Tämä peli toimii ainoastaan windowsilla!
 
 Miten saan pelin "ladattua":
 1. Lataa .zip tiedosto
