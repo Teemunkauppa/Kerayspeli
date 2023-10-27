@@ -27,7 +27,7 @@ Miten saan pelin "ladattua":
 4. Tuplaklikkaa keskimmäsitä tiedostoa, jotta voit pelata sitä
 5. Jos haluat luo pelille pikakuvake
 
-==================================================================================================================================
+====================================================
 
 UPDATE LOG:
 - Game released
