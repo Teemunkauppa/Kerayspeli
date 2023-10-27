@@ -25,3 +25,8 @@ Miten saan pelin "ladattua":
 3. Siinä kansiossa on 5 eri tiedostoa joista keskimmäinen on se peli
 4. Tuplaklikkaa keskimmäsitä tiedostoa, jotta voit pelata sitä
 5. Jos haluat luo pelille pikakuvake
+
+
+UPDATE LOG:
+- Game released
+- Added sound effects to the game
