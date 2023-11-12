@@ -32,3 +32,4 @@ Miten saan pelin "ladattua":
 UPDATE LOG:
 - Game released
 - Added sound effects to the game
+- Added local highscore
