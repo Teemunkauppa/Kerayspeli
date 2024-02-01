@@ -1,8 +1,4 @@
-# Kerayspeli
-Record is 750. If uoy get more than 750 points comment on this project and I will update the highscore.
-
-Ennätys on 750. Jos saat yli 750 kommentoi tähän projektiin niin päivitän ennätyksen.
-
+# Kerayspeli # Unity
 This is a game where you have to collect food and watch out for bombs.
 
 NOTE: This game works only in windows!
@@ -33,3 +29,4 @@ UPDATE LOG:
 - Game released
 - Added sound effects to the game
 - Added local highscore
+- Bug fixes, timer and last round's score
