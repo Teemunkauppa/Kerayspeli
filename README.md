@@ -1,9 +1,9 @@
 # Kerayspeli # Unity
 This is a game where you have to collect food and watch out for bombs.
 
-NOTE: This game works only in windows!
+NOTE: This game works only in windows and linux!
 
-How to "download" the game:
+# How to "download" the game:
 1. Download the .zip file
 2. Unzip the .zip file
 3. There are 5 diffrent files in the floder, the game (if you want to play it)
@@ -14,9 +14,9 @@ How to "download" the game:
 
 Tämä on peli jossa pitää kerätä ruokia ja varoa pommeja.
 
-HUOM: Tämä peli toimii ainoastaan windowsilla!
+HUOM: Tämä peli toimii ainoastaan windowsilla ja linuxilla!
 
-Miten saan pelin "ladattua":
+# Miten saan pelin "ladattua":
 1. Lataa .zip tiedosto
 2. Pura .zip tiedosto
 3. Siinä kansiossa on 5 eri tiedostoa joista keskimmäinen on se peli
@@ -25,7 +25,7 @@ Miten saan pelin "ladattua":
 
 ====================================================
 
-UPDATE LOG:
+# UPDATE LOG:
 - Game released
 - Added sound effects to the game
 - Added local highscore
